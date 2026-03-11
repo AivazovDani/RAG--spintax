@@ -1,3 +1,8 @@
 flask
 langchain_chroma
 langchain_openai
+python-dotenv
+langchain-core
+langchain-text-splitters
+chromadb
+openai
