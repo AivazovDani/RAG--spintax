@@ -1,2 +1,3 @@
 flask
 langchain_chroma
+langchain_openai
