@@ -1,5 +1,9 @@
 from flask import Flask, render_template, request
 from history_aware_generation import ask_question
+import os
+from openai import OpenAI
+
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 app = Flask(__name__)
 
