@@ -6,3 +6,4 @@ langchain-core
 langchain-text-splitters
 chromadb
 openai
+waitress
