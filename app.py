@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 from history_aware_generation import ask_question
+import os
 
 app = Flask(__name__)
 
