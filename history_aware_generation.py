@@ -6,7 +6,7 @@ from langchain_text_splitters import CharacterTextSplitter
 from langchain_core.documents import Document
 
 # Connect to your document database / Loading the existing Vector DB
-persistent_directory = "/app/db/db/chroma_db"
+persistent_directory = "/app/db/chroma_db"
 
 embedding_model = OpenAIEmbeddings(model="text-embedding-3-small")
 
