@@ -4,10 +4,11 @@ from dotenv import load_dotenv
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 from langchain_text_splitters import CharacterTextSplitter
 from langchain_core.documents import Document
+from openai import OpenAi
 
 
 load_dotenv()
-
+client = OpenAI()
 
 # Connect to your document database / Loading the existing Vector DB
 persistent_directory = "db/chroma_db"
@@ -115,4 +116,3 @@ def ask_question(value1):
     
     print(f"Answer: {answer}")
     return answer
-    start_chat()
