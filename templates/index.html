@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpinTax</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <h1>SpinTax Helper</h1>
+
+    <div class="container">
+        <h1>Spintax Ai</h1>
+        <input type="text" id="Field1" name="Field1">
+        <p class="pnew">Type the question you want</p>
+        <button onclick="runScript()" id="runBtn">Run</button>
+        <p id="result">Display Results</p>
+    </div>
+    
+</body>
+<script>
+    function runScript() {
+    const value1 = document.getElementById('Field1').value
+
+    const formData = new FormData()
+    formData.append('Field1', value1)
+
+    document.getElementById('runBtn').disabled = true
+
+    fetch('/run', {
+        method: 'POST',
+        body: formData
+    })
+    .then(res => res.text())
+    .then(result => {
+        document.getElementById('result').innerText = result
+        document.getElementById('runBtn').disabled = false
+    })
+}
+</script>
+</html>
