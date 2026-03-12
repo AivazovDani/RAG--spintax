@@ -1,0 +1,412 @@
+Payday Loans — Vertical Overview
+Payday Loans is a short-term lending vertical in SMS marketing where prospects are offered quick cash advances, typically ranging from $500 to $5,000, meant to cover urgent expenses until their next paycheck. It is one of the highest-intent verticals in SMS marketing — the audience is actively seeking a solution, not being interrupted by one.
+The Typical Customer:
+
+Needs fast cash urgently and has exhausted other options
+Has low credit score or no access to traditional banking institutions
+Lives paycheck to paycheck with little to no financial buffer
+Needs money within 24-48 hours — sometimes within the hour
+Is emotionally stressed and highly responsive to urgency and approval language
+
+What Makes It Work in SMS:
+
+Extreme urgency — money problems do not wait, and neither does this audience
+Emotional trigger — financial stress lowers resistance and drives immediate action
+Simple, frictionless offer — borrow X, get it today, pay back on payday
+High personal relevance — a message about money feels personal by default
+Short decision cycle — the customer already knows they need help, they just need a nudge
+
+Common Messaging Angles:
+
+Speed: "Funds deposited within 24h"
+Approval: "You have been pre-approved"
+Ease: "No credit check required"
+Urgency: "Offer expires tonight"
+Personalization: "Hi [First Name], your transfer is ready"
+Loss aversion: "Your funds will be canceled if not confirmed today"
+
+Why It Performs Well:
+
+The audience is already in problem-solving mode. When the right message reaches them at the right moment, conversion rates are significantly higher than most other verticals. The combination of urgency, personalization, and a clear call to action creates a powerful response loop — see message, feel recognized, click now.
+Compliance & Carrier Awareness:
+
+Payday is one of the most heavily regulated verticals in SMS marketing. Carriers actively filter for scammy language around guaranteed approvals, exact interest rates, and direct loan terminology. For this reason all copies must use soft, transactional language:
+
+Certain words and phrases trigger carrier filters and must be avoided entirely. Instead of using the word "loan" directly, replace it with softer transactional words like "transfer", "deposit" or "funding". Guaranteed approval language should never be used — instead opt for phrases like "pre-approved" or "you qualify" which imply approval without making a hard guarantee. Interest rates should never be mentioned at all under any circumstance. Instead of "borrow money" use action-oriented phrases like "access funds" or "receive amount" which feel like a transaction rather than a debt. The term "payday loan" should be replaced entirely with words like "advance", "credit" or "payout". Finally, phrases like "no credit check" should be used sparingly or avoided altogether as they are a common carrier filter trigger
+
+
+Learning From Winning Copies:
+I will now provide you with a large collection of proven, high-performing spintext examples from this vertical. Study each one carefully for: messaging angle, urgency triggers, soft language choices, spin structure, and call to action format. Every example represents a pattern that has survived carrier filtering and driven real conversions. Extract the best patterns and apply them when generating new copies.
+
+1.
+{Hi|Hello|Hey|Quick note|News|Update for} [first_name], {we tried|we attempted|we initiated|we scheduled|our team tried} to {send|transfer|credit|release|forward|allocate|process|issue} your {funds|payment|amount}, but it {failed|was declined|got rejected|it was returned}. {Loan|Cash|Funding|Advance|Deposit|Credit|Transfer|Wire} of {1|2|3|4|5},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4}{0|1|2|3|4} {is|was|is now} {approved|ready|issued|waiting}. {Confirm|Verify|Approve|Review|Check} in {15m|30m|1h|2h|6h|24h|now|today|here}: [link1]
+
+2.
+{This|Your|A} {transfer|deposit|payout} {is currently|is now|is} {processing|in progress|on the way} and {should|is set to|is expected to} {arrive|post|land} {within|in|after} {5|10|15|20|30|45|60} {mins|min}. {Check|Track|Manage|View} {status|details|updates} {in app|online|here}: [link1]
+
+3.
+{There is|You have|Notice:} {1|one|a} {new|recent|pending|unreviewed} {payment|allowance|credit|deposit} {waiting|pending|ready|available} for [first_name]. {Please|Kindly} {verify|confirm|review|check} {it|this} {today|now|asap|right away} [link1]
+
+4.
+{[first_name],|Hey [first_name],|Hi [first_name],|Hello [first_name],} {you can|you may|you are able to|you now can|you have access to} {review|check|view|access} {your funds|your balance|your money|your loan|your payment} {now|today|right now}. {Confirm|Review|Verify|Approve|Check} {the total|your amount|your balance|the full sum} {and withdraw|or withdraw|and transfer|or transfer} {here|now|via this link|directly here}: [link1]
+
+5.
+{Hi|Hello|Hey|Quick note} [first_name], {we tried|we attempted|we made an attempt|our team tried|we scheduled} to {send|transfer|credit|release} your {loan|cash loan|funding|payment|deposit} {totaling|worth|of} {1|2|3|4|5},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4}{0|1|2|3|4}. {Confirm|Verify|Review|Check|Approve|Accept} {within|in} {60min|30min|1h|1 hour|6 hours|12 hours|24 hours} or it will be {canceled|voided|closed}: [link1]
+
+6.
+{Quick|Fast|Rapid|Same day} {loan|cash loan|funding|payment|deposit} {totaling|worth|of} {1|2|3|4|5},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4}{0|1|2|3|4} {will be|is|has been} {released|sent|issued|approved} {today|now}. [first_name], {confirm|verify|approve} {within|in} {60min|30min|1h|1 hour|6 hours|12 hours|24 hours} or it will be {canceled|voided|closed}: [link1]
+
+7.
+{[first_name],|Hey [first_name],|Hi [first_name],|Hello [first_name],} {we are ready to|were ready to|we can now|we are set to} {transfer|send|release|move} {money|funds|your payout|your balance} {to your account|into your account|to you now}. {Confirm|Approve|Verify|Complete} {it here|your details here|now here|right away} {to receive it|to get it|to finalize|to proceed}. {Act now|Dont wait|Time matters|Respond today} [link1]
+
+8.
+Hi [first_name], you {missed|did not complete|did not finish|were unable to complete} the {wire|transfer|payment|transaction}. We {set|scheduled|planned|arranged|prepared} a {new|replacement|updated|follow-up} one for {today|later today}. Please {confirm|approve|review|acknowledge|validate} within {10|ten} {min|minutes}: [link1]
+
+9.
+{We tried|We have tried|We attempted|We reached out|We made attempts} {to reach|to contact|get in touch with} you {multiple times|several times|a few times|earlier}. Your 3{0|1|2|3|4}{0|1|2|3|4}{0|1|2|3|4} {loan|request|application} {is ready|is approved|is set|is available}: {review|confirm|access|check} {now|today|right now|promptly}. [link1]
+
+10.
+{New|Latest|Recent|Updated} {incoming|pending|available|approved|processed} {payment|transfer|deposit|money|payout} is {ready for|set for|scheduled for|prepared for} [first_name]. {Confirm|Check|Review|Verify|Complete} {the amount|your details|the information} to {deposit|release|receive|secure} {the funds|the money|the payment|the payout} {now|today|immediately|without delay}: [link1]
+
+11.
+{Dear|Hello|Hi|Notice|Update|Attention} [first_name], you {will receive|are set to receive|are scheduled to receive|are due for|can expect} {a new|an approved|a pending|an upcoming|a confirmed} {payment|deposit|transfer|payout|credit} in {30min|30 minutes|half hour|about 30min}. {Confirm|Review|Access|Complete|Verify|Approve|Check} here to {collect funds|receive payment|secure amount|finalize deposit|release funds|complete transfer}: [link1]
+
+12.
+{New|Latest|Recent|Updated} {incoming|pending|available|approved|processed} {payment|transfer|deposit|money|payout} is {ready for|set for|scheduled for|prepared for} [first_name]. {Confirm|Check|Review|Verify|Complete} {the amount|your details|the information} to {deposit|release|receive|secure} {the funds|the money|the payment|the payout} {now|today|immediately|without delay}: [link1]
+
+13.
+{Hello|Hi|Attention|Notice|Update}, [first_name], {we have|there is|you have|our team processed} {1|one|a new} {new|pending|approved|scheduled} {immediate|instant|fast|priority|urgent} {payment|transfer|deposit|money|payout|funds} for you. {Verify|Confirm|Review|Check|Validate|Complete} {within|in the next|before} {30min|30 minutes|half hour} or {it may be delayed|it may stop|it may be canceled}: [link1]
+
+14.
+{Hi|Hello|Good news} [first_name], {we have|our team has} {reviewed|analysed|inspected|checked} and {approved|confirmed|validated} your {request|application|submission}! {Please|Kindly} {confirm|verify|review} your {3|4},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {transfer|deposit|pending transfer|pending deposit}. {Act now|Respond today|Complete today|Confirm now}: [link1]
+
+15.
+[first_name], your {transaction|payment|transfer|wire} is {scheduled|set|queued|arranged} for {today|later today|this afternoon|shortly}. Please {complete|finish|submit|provide} a {quick|final|last|brief} {confirmation|review|check|approval} in the next {20|30|twenty|thirty} {minutes|min|mins}: [link1]
+
+16.
+{Quick|Fast|Rapid|Instant} {loan|cash loan|personal loan|funding} {is|has been} {approved|confirmed|cleared} for [first_name]. {Confirm|Review|Accept|E-sign} {now|today|right away} to {deposit|receive|get} {the funds|your money|the amount} {today|within 24h}: [link1]
+
+17.
+{Account|Profile} {owner|holder}: [first_name], you {will|are set to|are scheduled to} {receive|get} {an|your} {instant|immediate|quick} {payment|payout|transfer} of {1|2|3|4|5|6|7},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}. {Confirm|Verify|Approve} {now|right now|today|within 1h|within 30min|within 60min|within the next 24h} {to secure it|to avoid delay|to complete it|or it will be canceled|or it may be canceled|or it will be stopped}: [link1]
+
+18.
+{Hello|Hi|Attention|Notice|Update}, [first_name], {we have|there is|you have|our team processed} {1|one|a new} {new|pending|approved|scheduled} {immediate|instant|fast|priority|urgent} {payment|transfer|deposit|money|payout|funds} for you. {Verify|Confirm|Review|Check|Validate|Complete} {within|in the next|before} {30min|30 minutes|half hour} or {it may be delayed|it may stop|it may be canceled}: [link1]
+
+19.
+[first_name], {your funds|your money|your payout|your amount|your balance|your payment} {is ready|is prepared|is set|has been processed|is scheduled|is cleared} {for release|for transfer|to be sent|for delivery|for disbursement}. Please {confirm|complete|verify|finalize|approve|review} your {details|verification|review|information|records|request|application} {within the next 30min|within the next 35min|within the next 40min|soon|today|now|immediately|in next 24hrs} to {avoid delays|prevent holds|ensure timely processing|avoid interruptions|prevent suspension|secure release}: [link1]
+
+20.
+{Quick|Fast|Rapid|Same day|Instant|Express|Priority|Hi your|Your|Notice:|Update:} {loan|cash|funding|advance|deposit|transfer|total|total amount} {of|worth} {1|2|3|4|5},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4}{0|1|2|3|4} {is|was|has been} {approved|sent|issued|processed|cleared|confirmed|accepted|verified} {today|now|on Feb 23rd|on 23 Feb|on Feb 23|on 23/02|on February 23}. [first_name], {confirm|verify|review|approve|check} {in|within} {30m|45m|60m|1h|2h|3h|6h|12h|24h|today|now} {to secure|to finalize|to complete|to keep active|to receive|to get it} or {its canceled|its closed|it expires|its withdrawn|its rejected}: [link1]
+
+21.
+{Hi|Hello|Hey|Good news|Quick note} [first_name], {we tried|we attempted|we made an attempt|our team tried|we scheduled} to {deposit|send|transfer|credit|release} {funds|a payment|your payment|the amount} on {18 Feb|Feb 18|18/02|February 18}, but it {did not go through|was not completed|failed|was declined|could not process}. {Confirm|Verify|Review|Check|Approve} {now|today|right away|asap} to {receive it|get your funds|complete it|secure it}: [link1]
+
+22.
+[first_name], {your funds|your money|your payout|your amount|your balance|your payment} {is ready|is prepared|is set|has been processed|is scheduled|is cleared} {for release|for transfer|to be sent|for delivery|for payout|for disbursement}. Please {confirm|complete|verify|finalize|approve|review} your {details|verification|review|information|records|request|application} {within the next 30min|within the next 35min|within the next 40min|soon|today|now|immediately|in next 24hrs} to {avoid delays|prevent holds|ensure timely processing|avoid interruptions|prevent suspension|secure release}: [link1]
+
+23.
+{Newly|Recently|Just|Freshly|Officially} {approved|confirmed|processed|cleared|released} {funds|payment|deposit|transfer|payout} {have been sent|were issued|are now available|are ready|are accessible} to [first_name]. {Collect|Access|Claim|Review|Receive|Secure} your {money|funds|amount|balance} {now|today|within 24h|promptly|soon} here: [link1]
+
+24.
+{Hi|Hello|Hey|Good news|Quick note} [first_name], {we tried|we attempted|we made an attempt|our team tried|we scheduled} to {deposit|send|transfer|credit|release} {funds|a payment|your payment|the amount} on {18 Feb|Feb 18|18/02|February 18}, but it {did not go through|was not completed|failed|was declined|could not process}. {Confirm|Verify|Review|Check|Approve} {now|today|right away|asap} to {receive it|get your funds|complete it|secure it}: [link1]
+
+25.
+{Hi|Hello|Hey|Quick note} [first_name], {we tried|we attempted|we made an attempt|our team tried|we scheduled} to {deposit|send|transfer|credit|release} {funds|a payment|your payment|the amount|your total|your amount|your balance|new payment|new funds} {on 9 Mar|on Mar 9|on 03/09|on March 9|today|yesterday|30min ago|60min ago|1h ago|recently|last 2 day}, but it {did not go through|was not completed|failed|was declined|could not process|was not processed|you did't receive it}. {Confirm|Verify|Review|Check|Approve|Accept} {now|today|right away|asap|here} to {receive it|get funds|complete it|secure it|get total|get it|finish it}: [link1]
+
+26.
+{Quick|Fast|Rapid|Same day|Instant|Prompt|Express} {loan|cash loan|funding|payment|deposit|advance|payout|transfer} {totaling|worth|of|valued at|in the amount of} {1|2|3|4|5},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4}{0|1|2|3|4} {is|has been} {approved|issued|processed|prepared|scheduled|confirmed} {today|now|this morning|this afternoon}. {Please|Be sure to|You have to} {confirm|verify|review|check} {within|in} {30min|45min|1h|1 hour|2 hours|6 hours|12 hours|24 hours} to {proceed|get it|receive it|to get it today}: [link1]
+
+27.
+{Hi|Hello|Hey|Quick note} [first_name], {we tried|we attempted|we made an attempt|our team tried|we scheduled} to {send|transfer|credit|release} your {loan|cash loan|funding|payment|deposit} {totaling|worth|of} {1|2|3|4|5},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4}{0|1|2|3|4}. {Confirm|Verify|Review|Check|Approve|Accept} {within|in} {60min|30min|1h|1 hour|6 hours|12 hours|24 hours} or it will be {canceled|voided|closed}: [link1]
+
+28.
+{Hi|Hello|Hey|Quick note|News|Update for} [first_name], {we tried|we attempted|we initiated|we scheduled|our team tried} to {send|transfer|credit|release|forward|allocate|process|issue} your {funds|payment|amount}, but it {failed|was declined|got rejected|it was returned}. {Loan|Cash|Funding|Advance|Deposit|Credit|Transfer|Wire} of {1|2|3|4|5},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4}{0|1|2|3|4} {is|was|is now} {approved|ready|issued|waiting}. {Confirm|Verify|Approve|Review|Check} in {15m|30m|1h|2h|6h|24h|now|today|here}: [link1]
+
+29.
+{[first_name], you forgot to|[first_name], you missed|[first_name], you still need to|[first_name], you haven't yet|[first_name], you have not yet|[first_name], you still have to|[first_name], you didn't} {collect|claim|get|pick up|retrieve|secure|access} your {funds|balance|amount|payout|available funds|deposit|payment|credit}. {Last reminder|Final reminder|Last notice|Final notice|Final alert|Important reminder}, {act now|complete it now|claim it now|get it now|finish now|respond now} {within|in the next|during the next} {10|15|20|30|45|60} {min|mins|minutes}: [link1]
+
+30.
+{Hi|Hello|Hey|Quick note|News|Update for} [first_name], {we tried|we attempted|we initiated|we scheduled|our team tried} to {send|transfer|credit|release|forward|allocate|process|issue} your {funds|payment|amount}, but it {failed|was declined|got rejected|it was returned}. Your {Loan|Cash|Advance|Deposit|Credit|Transfer|Wire} {is|was|is now} {approved|ready|issued|waiting}. {Confirm|Verify|Approve|Review|Check} in {15m|30m|1h|2h|6h|24h|now|today|here}: [link1]
+
+31.
+You can {confirm|approve|accept|receive|claim|verify|authorize|finalize|secure|complete|redeem|access} {a {new|incoming|pending|approved|cleared|ready|scheduled} {transfer|credit|payout|payment|deposit|disbursement|funds}} of {2|3|4|5},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {to your account|into your account|to your balance|to your registered account} {right here|now|today|within 5min|only today|immediately|in minutes|with one tap|via this link|before it expires|while available|by midnight}: [URL]
+
+32.
+{This is Tasha|Hey, it's Tasha|Tasha here|Just a heads up from Tasha|It's Tasha again}. Your {loan for $10,300|$10,300 loan|approved $10,300|$10,300 funding|$10.3K approval} {is approved and just sitting here|got approved and is waiting|has been approved and ready|is waiting for you to act|was approved and is untouched}. {Tap to claim it|Claim it now|Grab it now|Click to collect|Act before it's gone} before we {shut it down|close it out|revoke the offer|take it off the table|cancel it}: [URL]
+
+33.
+{Our team|We|The team|Our staff|Our agents|Our support team|Hi, our team} {tried to call|tried reaching you|called|tried to reach you|attempted to call|attempted to reach you|reached out|left you messages} {5 times|five times|several times|multiple times|a few times|on numerous occasions|repeatedly|more than once} {this week|over the past few days|in the last week|lately|so far|in recent days}. Your {loan|quick loan|advance|credit|funding|payout|funds|total|amount|sum} of {2|3|4|5|6},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9} {was approved|has been approved|is approved|was accepted|is confirmed|was greenlit|got the green light|has been confirmed|has been cleared}. {Tap here|Click here|Claim now|Get it|Access it|Confirm here|Secure it|Proceed here|Open link|Review here}: [URL]
+
+34.
+Dear client, you have {30 min|60 min|1 hour|1hr|{2|3|4|5|6} {hours|hrs}}{| left} to {{get|receive|take|collect} the {total amount|total|entire amount}|{get|confirm|collect} {pending transfer|incoming transfer|transfer}} of {1|2|3|4|5|6|7|8|9}.{1|2|3|4|5|6|7|8|9}{1|2|3|4|5|6|7|8|9}{1|2|3|4|5|6|7|8|9}. {Check the [URL]|Check [URL]|Continue now [URL]|Follow the [URL]|Go to [URL]} to {get|receive|access} it!
+
+35.
+{Total of|Total amount of|Grand total of|Sum total of|Sum of|Aggregate amount of|Overall total of|Amounting to|Totaling|Combined total of} {3|4|5|6|7|8|9},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {is|is now|has been|is currently|is available now|is presently|now stands|is ready|has become|remains} {available|pending|ready|prepared|awaiting|accessible|collectible|obtainable|redeemable|claimable}! {Use|Redeem|Apply|Utilize|Access|Employ|Please use|Click to use|Enter} {this|your|the} {new login|login|account login|credentials|account credentials|new credentials|confirm details|access details|access credentials|account info} {to|and then to|so you can} {confirm|get|receive|claim|access|redeem|retrieve|collect|verify} {it|the amount|your funds|your balance|the total|the payout|your payout|the funds|the balance|the sum}: [URL]
+
+36.
+You have {{amount|sum} {prepared|that are ready|ready|arranged} {for transfer|to be transferred|to be received|to be allocated|to be sent|to transfered}. {Total is:|Total:} {1|2|3|4|5}.{1|2|3|4|5|6|7|8|9}{1|2|3|4|5|6|7|8|9}{1|2|3|4|5|6|7|8|9},{00|01|05|07}. {Tap the [URL]|Check [URL]|Follow the [URL]|Go to [URL]} to {get|receive|access} {them|it}!}
+
+37.
+{Your|A|This|That|The} {deposit|credit|payout|transfer|payment|disbursement} of {2|3|4|5},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {is ready|cleared|approved|set|queued} {to your account|for your account|to your balance|to your primary account|to your profile}. {Confirm|Claim|Authorize|Accept|Verify} {now|here|today|ASAP|in minutes}: [URL]
+
+38.
+{Hello|Hi|Hey there|Greetings|Good day|Hey|Warm hello}, {please|you need|you have to|make sure to|be sure to|don't forget to|kindly|remember to|it's time to|you must|take a moment to|feel free to|we invite you to|be sure you|just|you should} {verify|check|review|confirm|inspect|validate|cross-check|look over|examine|audit} your {entry|record|submission|request|application|form|file|case|entry record|submission packet} for {1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}.{00|05|10|25|50}. The {final|last|closing|next|remaining|concluding|ultimate|finishing|terminal|last-stage} step is to {open|view|access|inspect|complete|finish|follow|proceed with|review|launch} it [URL]
+
+39.
+{Your payout|Deposit request|Transfer} is {confirmed|active|ready} {as of 4:59PM|before 5PM|today}. {Authorize it|Finish setup|Approve now}: [URL]
+
+40.
+{Transaction|Transfer|Wire|Deposit|Payout|Remittance|Disbursement|Operation|Credit} {complete|finalized|processed successfully|confirmed|executed|fulfilled|wrapped up|posted|cleared|recorded}! {Review|Check|Inspect|Examine|Take a look at|Go over|Double-check|Evaluate|Confirm|Verify} your {available|accessible|current|active|updated|ready|posted|visible|recent|latest|registered} {funds|balance|holdings|credits|resources|assets|account standing|account total|primary account balance} {now|right now|immediately|without delay|instantly|straight away|at this moment|promptly|as of this moment|today}. [URL]
+
+41.
+{This is {Mike|Brian|John|Chris|Jack|Robert|Nick|Nicky|Jim|Dwight|Stanley|Ryan|Michael|Toby|Pam|Erin|Andy|Kevin|Kelly|Karen|Roy|Oscar} from {IMS|DBS|RBS|INS|PDL|LND}!|{Mike|Brian|John|Chris|Jack|Robert|Nick|Nicky|Jim|Dwight|Stanley|Ryan|Michael|Toby|Pam|Erin|Andy|Kevin|Kelly|Karen|Roy|Oscar} here from {IMS|DBS|RBS|INS|PDL|LND}!|{Hi|Hello|Hey}, this is {Mike|Brian|John|Chris|Jack|Robert|Nick|Nicky|Jim|Dwight|Stanley|Ryan|Michael|Toby|Pam|Erin|Andy|Kevin|Kelly|Karen|Roy|Oscar} from {IMS|DBS|RBS|INS|PDL|LND}!|{Hi|Hello|Hey}, it's {Mike|Brian|John|Chris|Jack|Robert|Nick|Nicky|Jim|Dwight|Stanley|Ryan|Michael|Toby|Pam|Erin|Andy|Kevin|Kelly|Karen|Roy|Oscar} from {IMS|DBS|RBS|INS|PDL|LND}!} I am {happy to say|pleased to announce|delighted to inform you} that {transaction|this transaction|deposit|credit|top-up|this load|this funding|payout|funding|funding of|arriving funds|incoming amount|arriving total|incoming total} is {approved|accepted|confirmed|validated|cleared|ratified|passed|verified|finalized|granted|sent|wired} [URL]
+
+42.
+{Our team|We|The team|Our staff|Our agents|Our support team|Hi, our team} {tried to call|tried reaching you|called|tried to reach you|attempted to call|attempted to reach you|reached out|left you messages} {5 times|five times|several times|multiple times|a few times|on numerous occasions|repeatedly|more than once} {this week|over the past few days|in the last week|lately|so far|in recent days}. Your {loan|quick loan|advance|credit|funding|payout} of {2|3|4|5|6},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9} {was approved|has been approved|is approved|was accepted|is confirmed|was greenlit|got the green light|has been authorized|has been cleared}. {Tap here|Click here|Claim now|Get it|Access it|Confirm here|Secure it|Proceed here|Open link|Review here}: [URL]
+
+43.
+Hi, E-sign {here to confirm|to confirm} your {amount|total} - {1|2|3|4|5|6|7|8|9},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}.{00|01|05|25}. The {last|final} step is to {check|do it} here: [URL]
+
+44.
+{Hello|Hi|Hey there|Greetings|Good day|Hey|Warm hello}, please {verify|check|review|confirm|inspect|validate|cross-check|look over|examine|audit} your {entry|record|submission|request|application|form|file|case|entry record|submission packet} for {1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}.{00|05|10|25|50}. The {final|last|closing|next|remaining|concluding|ultimate|finishing|terminal|last-stage} step is to {open|view|access|inspect|complete|finish|follow|proceed with|review|launch} it [URL]
+
+45.
+{Heads up:|FYI:|Quick update:|Update:|Brief update:|Reminder:|Important:|Action needed:|Follow-up:} Your {primary|main|default|current|preferred|principal|everyday|primary checking|main checking} {account|profile|wallet|balance|payout profile|user account|primary account|main account|dashboard|portal} {will be credited with|will receive|will be funded with|will be topped up with|will be loaded with|will reflect|will show|will post|will display|will register} {1|2|3|4|5},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {immediately|right away|instantly|now|today|within minutes|shortly|at once|without delay|ASAP}! Please {confirm|verify|approve|acknowledge|validate|review|check|confirm receipt of|accept} {this transaction|the transaction|this deposit|this credit|this update|this top-up|this load|this funding|this payout|this posting}: [URL]
+
+46.
+Your {primary|checking|main|primary checking|main checking} account will be credited with {1|2|3|4|5},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} immediately! Please {confirm|verify} {the transaction|this deposit|this transaction}: [URL]
+
+47.
+{Hi|Hey|Hello|Good news!|Heads up!} {Our team|We|The team|Someone from our office} {tried to call you|attempted to reach you|has been trying to reach you|called you} {5 times|five times|several times|multiple times} {this week|over the past few days|recently|already}. Your {loan for $5900|$5,900 loan|approved loan of $5,900|funding of $5,900} {was approved|is approved|got the green light|has been accepted}. {Tap here|Click here|Claim it now|Get it now|Grab it} to {get your funds|secure your cash|get paid|access the money|claim your money}: [URL]
+
+48.
+{Your|The|This} {primary|main|default|registered|designated|checking|primary checking|main checking} {account|balance|wallet|profile|b. account} {will be|is being|can be|is set to be|may be} {credited|funded|topped up|posted|loaded|credited with} {1|2|3|4|5},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {immediately|right away|now|within minutes|shortly|instantly}! {Please|Kindly|Do please|Just} {confirm|verify|authorize|approve|validate} {here|at this|via this|right here|}{:|-} [URL]
+
+49.
+{We called|You were contacted|You got a call|You received a notice} on {07/30|July 30th} about your {approval for $9,300|$9,300 approval|approved $9,300|funds of $9,300}. You can still {get the funds|access the money|claim the funds|secure the cash} but only until {08/01|August 1st|tomorrow}. {Confirm here|Tap to confirm|Act now|Claim now}: [URL]
+
+50.
+{Hi there,|Hi,|Good news:|Status change:|Hello,|Recent update:|Incoming:|New:} {your|the|this} {payout|transfer|credit|disbursement|deposit|reimbursement|settlement|allocation|funds|funding|top-up|load|credit posting|credit entry|total|sum|amount|subtotal|net amount|gross amount} {is|has been|was|was just} {scheduled|planned|slated|arranged|booked|timetabled|penciled in|lined up|programmed|set|fixed|confirmed|locked in|finalized|configured|prepped|queued|in queue|in the queue|in line|pending|awaiting processing|next up|on deck|in the pipeline|approved|authorized|validated|cleared|greenlit|okayed|accepted|endorsed|ratified|ready|prepared|good to go|all set|primed|standing by|available|set to go|staged|in place} {to {clear|post|settle|land|arrive|be deposited}|for {deposit|release}|to be {sent|released}} {{in|within} {5|10|15|20|30|45|60|90} {minutes|min|minutes from now|mins}| {in|within} {2|4|6|12|24|48} {hours|hrs|hours from now}|today|in 24hrs|in next {1|2|3|4|5|6|12|48}hrs|asap}. {Just|Please|Kindly|Quickly|Simply} {confirm|validate|authorize|approve|verify|proceed|continue|accept} {here|via this|at this|right here}: [URL]
+
+51.
+{{Your|The|These} {funds} {are|have been}|{Your|The|This} {instalment|payout|transfer|credit|disbursement} {is|has been}} {scheduled|set|queued|approved|ready} {to {clear|post|settle|land|arrive|be deposited}|for {deposit|release}|to be {sent|released}} {in|within|in about} {{5|10|15|20|30|45|60|90} {minutes|min|minutes from now|mins}|{1|2|4|6|12|24|48} {hours|hrs|hours from now}}. {Just|Please|Kindly|Quickly|Simply} {confirm|validate|authorize|approve|verify} {here|via this|at this|right here}: [URL] {to {continue|proceed|complete|finalize|finish}|to {release|post|deposit} them}.
+
+52.
+{Please|We need you to|You need to|You have to|Hi, please|Hi,|Hello,|Notice, you need|Important: you have to} {confirm|verify|approve|acknowledge|validate|review|check|confirm receipt of|accept} {this transaction|the transaction|this deposit|this credit|this update|this top-up|this load|this funding|this payout|this posting|funding of|arriving funds|incoming amount|arriving total|incoming total} {1|2|3|4|5},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9}. Your {primary|main|default|current|preferred|principal|everyday|joint} {account|profile|wallet|balance|payout profile|user account|acct.|acct|e-acct|e-wallet|e-profile} {will be credited with|will receive|will be funded with|will be topped up with|will be loaded with|will reflect|will show|will post|will display|will register} it {immediately|right away|instantly|now|today|within minutes|shortly|at once|without delay|in 24hrs|in 6hrs|in 12hrs} [URL]
+
+53.
+{Heads up:|FYI:|Quick update:|Update:|Brief update:|Reminder:|Important:|Action needed:|Follow-up:} {{Your|The|These} {funds|resources} {are|have been|look}|{Your|The|This} {instalment|payout|transfer|credit|disbursement|amount|advance|funding} {is|has been}} {scheduled|set|queued|approved|ready|available|prepared} {to {clear|post|settle|land|arrive|be deposited|go through}|for {deposit|release|processing}|to be {sent|released|available}} {in|within|in about} {{5|10|15|20|30|45|60|90} {minutes|min|minutes from now|mins}|{1|2|4|6|12|24|48} {hours|hrs|hours from now}|{soon|shortly|today|before end of day|without delay|this week|in the coming hours|after review}}. {Just|Please|Kindly|Quickly|Simply} {confirm|validate|authorize|approve|verify|review|check|secure} {here|via this|at this|right here}: [URL] {to {continue|proceed|complete|finalize|finish}|to {release|post|deposit} them}.
+
+54.
+The total of {3|4},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {is|is now} {available|pending|ready|prepared|awaiting}! Use this {new login|login} to {Access|access|get} {your|Your} funds: [URL]
+
+55.
+{Heads up:|FYI:|Quick update:|Update:|Brief update:|Reminder:|Important:|Action needed:|Follow-up:} Your {primary|main|default|current|designated|preferred|principal|everyday|joint} {account|profile|wallet|balance|payout profile|user account|acct.|acct|e-acct|e-wallet|e-profile} {will be credited with|will receive|will be funded with|will be topped up with|will be loaded with|will reflect|will show|will post|will display|will register} {1|2|3|4|5},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {immediately|right away|instantly|now|today|within minutes|shortly|at once|without delay|ASAP}! Please {confirm|verify|approve|acknowledge|validate|authorize|review|check|confirm receipt of|accept} {this transaction|the transaction|this deposit|this credit|this update|this top-up|this load|this funding|this payout|this posting}: [URL]
+
+56.
+We have {approved|accepted} your {application|request} for {3|4},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9}! Here is the {deposit|transfer|check} {confirmation|instruction}: [URL]
+
+57.
+The total of {3|4},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {is|is now} {waiting|available|pending|ready|prepared|awaiting} to {transfer|deposit|send|move|deliver|forward} to your {primary|checking|main|primary checking|main checking} account: [URL]
+
+58.
+{{Your|The|These} {funds} {are|have been}|{Your|The|This} {payment|payout|transfer|credit|disbursement} {is|has been}} {scheduled|set|queued|approved|ready} {to {clear|post|settle|land|arrive|be deposited}|for {deposit|release}|to be {sent|released}} {in|within|in about} {{5|10|15|20|30|45|60|90} {minutes|min|minutes from now|mins}|{1|2|4|6|12|24|48} {hours|hrs|hours from now}}. {Just|Please|Kindly|Quickly|Simply} {confirm|validate|authorize|approve|verify} {here|via this|at this|right here}: [URL] {to {continue|proceed|complete|finalize|finish}|to {release|post|deposit} them}.
+
+59.
+{An|Your} {approved|confirmed|cleared|available|queued|scheduled} {payout|transfer|payment|wire|deposit} of {2|3|4|5},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {is ready|is available|awaits you|is set}. {{Receive|Get|Collect|Claim|Acess|Take} it|{Send|Receive|Take} it {to your account|to your balance}} {now|today|ASAP|in minutes|right away} {here|via link|at this link|}: [URL]
+
+60.
+You have {a new|1 new|one new} {pending|incoming} {transfer|deposit}! The total of {3|4},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {is|is now} {waiting|available|ready|prepared}: [URL]
+
+61.
+{We have|Our team} {reviewed|analysed|inspected} and {approved|confirmed} your {request|application|submit}! The total of {3|4},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {is|is now} {ready|available|pending|prepared|awaiting} for {transfer|deposit|send} to {your account|you}: [URL]
+
+62.
+{Total approval|Amount approved} for your {application|request} is: {3|4},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9}! {Deposit|Transfer|Check} {confirmation|instructions}: [URL]
+
+63.
+{Notice:|Heads up:|Update:|Quick notice:|FYI:|Alert:|Important update:|Reminder:|Action required:|Follow up:} Your {main|primary|linked|preferred|default|registered|active|current|everyday|primary checking} {account|wallet|balance|profile|user dashboard|payout account|account portal|main wallet|payment profile|funding account} {will be credited with|will soon receive|is scheduled to get|will get a credit of|is being funded with|will display a new balance of|will show funds of|is set to receive|will register an amount of|will post a credit of} {1|2|3|4|5},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}.{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9} {soon|shortly|within minutes|today|instantly|now|right away|immediately|without delay|ASAP}. Please {confirm|verify|review|acknowledge|validate|approve|check|accept} {this|that|it}: [URL]
+
+64.
+{[First Name], your payout|Your payout|Deposit request|Transfer} is {confirmed|active|ready} {as of 4:59PM|before 5PM|today}. {Authorize it|Finish setup|Approve now|E-sing it}: [Link]
+
+65.
+The total of {3|4},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {is|is now} {waiting|available|pending|ready|prepared|awaiting} to {transfer|deposit|send|move|deliver|forward} to your {primary|checking|main|primary checking|main checking} account: [Link]
+
+66.
+{Hi|Hey|Hello|Good news!|Heads up!} {Our team|We|The team|Someone from our office} {tried to call you|attempted to reach you|has been trying to reach you|called you} {5 times|five times|several times|multiple times} {this week|over the past few days|recently|already}. Your {loan for $5900|$5,900 loan|loan of $5,900|funding of $5,900} {was approved|is approved|got the green light|has been accepted}. {Tap here|Click here|Claim it now|Get it now|Grab it} to {get your funds|secure your cash|get paid|access the money|claim your money}: [Link]
+
+67.
+{Your payout|Deposit request|Transfer} is {confirmed|active|ready} {as of 4:59PM|before 5PM|today}. {Authorize it|Finish setup|Approve now}: [Link]
+
+68.
+{Your payout|Deposit request|Transfer} is {confirmed|active|ready}. {Authorize it|Finish setup|Approve now}: [Link]
+
+69.
+{Hi|Hey|Heads up!} {We|Our team} {called|tried} you {5 times|recently}. Your {$5,900 loan|loan} {was approved|got the green light}. {Tap|Claim} now: [Link]
+
+70.
+{{Hi|Hey|Hello|Good news!|Heads up!}|{Hi|Hey|Hello|Good news|Heads up} [First Name]!} {Our team|We|The team|Someone here} {tried to call|tried reaching|called|called you} {5 times|five times|several times|multiple times} {this week|past days|recently|already}. Your {loan $5,900|$5,900 loan|loan of $5,900|funding $5,900} {was approved|is approved|got OK|was accepted}. {Tap here|Click here|Claim now|Get it|Grab it} to {get funds|secure cash|get paid|access money|claim funds}: [Link]
+
+71.
+{Good news!|Heads up!|Hello|Hey|Hi} {Our team|Someone from our office|The team|We} {attempted to reach you|called you|has been trying to reach you|tried to call you} {5 times|five times|multiple times|several times} {already|over the past few days|recently|this week}. Your {$5,900 loan|funding of $5,900|loan for $5900|loan of $5,900} {got the green light|has been accepted|is approved|was approved}. {Claim it now|Click here|Get it now|Grab it|Tap here} to {access the money|claim your money|get paid|get your funds|secure your cash}: [Link]
+
+72.
+{Good news!|Heads up!|Hello|Hey|Hi} {Our team|Someone from our office|The team|We} {attempted to reach you|called you|has been trying to reach you|tried to call you} {5 times|five times|multiple times|several times} {already|over the past few days|recently|this week}. Your {$5,900 loan|funding of $5,900|loan for $5900|loan of $5,900} {got the green light|has been accepted|is approved|was approved}. {Claim it now|Click here|Get it now|Grab it|Tap here} to {access the money|claim your money|get paid|get your funds|secure your cash}: [Link]
+
+73.
+{Good news!|Heads up!|Hello|Hey|Hi} {Our team|Someone from our office|The team|We} {attempted to reach you|called you|has been trying to reach you|tried to call you} {5 times|five times|multiple times|several times} {already|over the past few days|recently|this week}. Your {$5,900 loan|funding of $5,900|loan for $5900|loan of $5,900} {got the green light|has been accepted|is approved|was approved}. {Claim it now|Click here|Get it now|Grab it|Tap here} to {access the money|claim your money|get paid|get your funds|secure your cash}: [Link]
+
+74.
+{[First Name], you have|Hey [First Name], you got|Attention [First Name], there is} {a new|1 new|one new|a pending} {transfer|deposit|approval|amount} {waiting|ready|available|just in}! The total {is|comes to|has been set at} {3|4},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9}. {Confirm|Check|Secure|View} your {deposit|transfer|approval|confirmation|instructions} here: [Link]
+
+75.
+Your {primary|checking|main|primary checking|main checking} account will be credited with {3|4},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} immediately! Please {confirm|verify} {the transaction|this deposit|this transaction}: [Link]
+
+76.
+Hi [First Name], E-sign {here to confirm|to confirm} your {amount|total} - {1|2|3|4|5|6|7|8|9},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}.{00|01|05|25}. The {last|final} step is to {check|do it} here: [Link]
+
+77.
+Your {primary|main|default|current|preferred|principal|everyday|joint} {account|wallet|balance|payout profile|user account|acct.|acct|e-acct|e-wallet|e-profile} {will be credited with|will receive|will be funded with|will be topped up with|will be loaded with|will reflect|will show|will post|will display|will register} {1|2|3|4|5},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} {immediately|right away|instantly|now|today|within minutes|shortly|at once|without delay|ASAP}! Please {confirm|verify|approve|acknowledge|validate|authorize|review|check|confirm receipt of|accept} {this transaction|the transaction|this deposit|this credit|this update|this top-up|this load|this funding|this payout|this posting}: [Link]
+
+78.
+{{Your|The|These} {funds} {are|have been}|{Your|The|This} {payment|payout|transfer|credit|disbursement} {is|has been}} {scheduled|set|queued|approved|ready} {to {clear|post|settle|land|arrive|be deposited}|for {deposit|release}|to be {sent|released}} {in|within|in about} {{5|10|15|20|30|45|60|90} {minutes|min|minutes from now|mins}|{1|2|4|6|12|24|48} {hours|hrs|hours from now}}. {Just|Please|Kindly|Quickly|Simply} {confirm|validate|authorize|approve|verify} {here|via this|at this|right here}: [Link] {to {continue|proceed|complete|finalize|finish}|to {release|post|deposit} them}.
+
+79.
+This is for you: [Link]
+
+80.
+Receive your deposit: [Link]
+
+81.
+Deposit Incoming Now [Link]
+
+82.
+Funds Arriving Now [Link]
+
+83.
+Accept new funds: [Link]
+
+84.
+Deposit today: [Link]
+
+85.
+You received funds: [Link]
+
+86.
+[First Name], This is for you: [Link]
+
+87.
+[First Name], Deposit today: [Link]
+
+88.
+[First Name], Receive your deposit: [Link]
+
+89.
+[First Name], Accept new funds: [Link]
+
+90.
+[First Name], Deposit Incoming Now: [Link]
+
+91.
+[First Name], Funds Arriving Now: [Link]
+
+92.
+[First Name], You received funds: [Link]
+
+93.
+[First Name], Deposit Incoming Now: [Link]¹
+
+94.
+[First Name], This is for you: global-vd.info¹
+
+95.
+Hi [First Name], E-sign {here to confirm|to confirm} your {amount|total} - {1|2|3|4|5|6|7|8|9},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}.{00|01|05|25}. The {last|final} step is to {check|do it} here: [Link]
+
+96.
+Your {primary|checking|main|primary checking|main checking} account will be credited with {3|4},{1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8}.{0|1|2|3|4|5|6|8|9}{0|1|2|3|5|6|7|8|9} immediately! Please {confirm|verify} {the transaction|this deposit|this transaction}: [Link]
+
+97.
+[First Name], {funds|total|sum of} {1|2|3|4|5|6|7|8|9},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4|5|6|7|8|9} {arriving|incoming} {today|now|immediately|to your main account|to your account}. {Check|Confirm|Accept} here: [Link]
+
+98.
+[First Name], Confirm your transfer: [Link]
+
+99.
+[First Name], Document is ready to e-sign: [Link]
+
+100.
+[First Name], You've been approved for this amount: [Link]
+
+101.
+[First Name], Your Funds are Approved: [Link]
+
+102.
+Confirm your transfer: [Link]
+
+103.
+Your Funds are Approved: [Link]
+
+104.
+Document is ready to e-sign: [Link]
+
+105.
+You've been approved for this amount: [Link]
+
+106.
+Your Holiday Funds are Approved: [Link]
+
+107.
+Your Xmas Funds are Approved: [Link]
+
+108.
+Your balance is ready to claim [Link]
+
+109.
+e-Sign to claim funds: [Link]
+
+110.
+You qualify — access funds now: [Link]
+
+111.
+Claim your approved funds: [Link]
+
+112.
+Advance cleared for release: [Link]
+
+113.
+Funds pending your action: [Link]
+
+114.
+{Hi|Hello|Hey|Quick note} [First Name], {we tried|we attempted|we made an attempt|our team tried|we scheduled} to {deposit|send|transfer|credit|release} {funds|a payment|your payment|the amount|your total|your amount|your balance} {on 25 Feb|on Feb 25|on 25/02|on February 25|today|yesterday|30min ago|60min ago|1h ago}, but it {did not go through|was not completed|failed|was declined|could not process}. {Confirm|Verify|Review|Check|Approve|Accept} {now|today|right away|asap} to {receive it|get funds|complete it|secure it|get total}: [Link]
+
+115.
+{Hi|Hello|Hey|Quick note}, {we tried|we attempted|we made an attempt|our team tried|we scheduled} to {deposit|send|transfer|credit|release} {funds|a payment|your payment|the amount|your total|your amount|your balance} {on 25 Feb|on Feb 25|on 25/02|on February 25|today|yesterday|30min ago|60min ago|1h ago}, but it {did not go through|was not completed|failed|was declined|could not process}. {Confirm|Verify|Review|Check|Approve|Accept} {now|today|right away|asap} to {receive it|get funds|complete it|secure it|get total}: [Link]
+
+116.
+{Hello|Hi|Attention|Notice|Update}, [First Name], {we have|there is|you have|our team processed} {1|one|a new} {new|pending|approved|scheduled} {immediate|instant|fast|priority|urgent} {payment|transfer|deposit|money|payout|funds} for you. {Verify|Confirm|Review|Check|Validate|Complete} {within|in the next|before} {30min|30 minutes|half hour} or {it may be delayed|it may stop|it may be canceled}: [Link]
+
+117.
+{Hello|Hi|Attention|Notice|Update}, {we have|there is|you have|our team processed} {1|one|a new} {new|pending|approved|scheduled} {immediate|instant|fast|priority|urgent} {payment|transfer|deposit|money|payout|funds} for you. {Verify|Confirm|Review|Check|Validate|Complete} {within|in the next|before} {30min|30 minutes|half hour} or {it may be delayed|it may stop|it may be canceled}: [Link]
+
+118.
+{Quick|Fast|Rapid|Same day|Instant|Express|Priority|Hi your|Your|Notice:|Update:} {loan|cash|funding|advance|deposit|transfer|total|total amount} {of|worth} {1|2|3|4|5},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4}{0|1|2|3|4} {is|was|has been} {approved|sent|issued|processed|cleared|confirmed|accepted|verified} {today|now|on Feb 23rd|on 23 Feb|on Feb 23|on 23/02|on February 23}. [First Name], {confirm|verify|review|approve|check} {in|within} {30m|45m|60m|1h|2h|3h|6h|12h|24h|today|now} {to secure|to finalize|to complete|to keep active|to receive|to get it} or {its canceled|its closed|it expires|its withdrawn|its rejected}: [Link]
+
+119.
+{Quick|Fast|Rapid|Same day|Instant|Express|Priority|Hi your|Your|Notice:|Update:} {loan|cash|funding|advance|deposit|transfer|total|total amount} {of|worth} {1|2|3|4|5},{0|1|2|3|4|5|6|7|8|9}{0|1|2|3|4}{0|1|2|3|4} {is|was|has been} {approved|sent|issued|processed|cleared|confirmed|accepted|verified} {today|now|on Feb 23rd|on 23 Feb|on Feb 23|on 23/02|on February 23}. {Confirm|Verify|Review|Approve|Check} {in|within} {30m|45m|60m|1h|2h|3h|6h|12h|24h|today|now} {to secure|to finalize|to complete|to keep active|to receive|to get it} or {its canceled|its closed|it expires|its withdrawn|its rejected}: [Link]
+
+120.
+Final notification! ${1|2|3|4|5}{1|2|3|4|5|6|7|8|9}{1|2|3|4|5|6|7|8|9}{1|2|3|4|5|6|7|8|9} available now for you account [Link]
+
+121.
+Your application has been approved. Please confirm the total amount: [Link]
+
+122.
+[First Name], {{confirm your incoming|make sure you confirm your inbound|check your inbound|verify your incoming} {transfer|deposit}!|{confirm the transfer you are|verify the amount you are|check the confirmation of the transfer you're|confirm the deposit you're} receiving!|confirm {your|the} inbound transfer!} {The [Link] {will expire in|will expire within|expires in|will expire after} {2|4|6|8|10|12} {hours|hrs}.}
+
+123.
+{Funds {approved and accessible|are approved and available|have been approved and are accessible|approved and ready}.|Funds {are approved and available|have been approved and are available|are approved and accessible|have been approved and are accessible}.} [Link] Offer valid until {5|6|7|8} {PM|PM 05-22|PM 05-22-2024}.
+
+124.
+{Account update|Notification|New update|Account notification|Notice}: {Click the [Link]|Check [Link]|Follow the [Link]|Go to [Link]} - {incoming|pending} {total|total amount of} {1|2|3|4|5}.{1|2|3|4|5|6|7|8|9}{1|2|3|4|5|6|7|8|9}{1|2|3|4|5|6|7|8|9},{00|01|05|07}. {Recipient|User}: [First Name]
+

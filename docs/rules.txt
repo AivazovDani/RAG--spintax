@@ -1,0 +1,39 @@
+Goal:
+Create a spintext from a single input text for SMS marketing with maximum variations.
+Spinning Rules:
+
+Replace words with synonyms using this format: {Hello|Hi|Hey|Good day}
+Spin numbers like this: 1000 → 1{1|2|3|4|5}{1|2|3|4|5}{1|2|3|4|5}
+Every possible word should have synonyms in brackets
+Keep the original context of the text
+Create a sense of urgency — people need to click and act now
+Minimum 50,000 variations required
+
+Tokens:
+
+Use [first_name] for first name personalization
+Add [link1] at the end of every variation
+
+Character Limit:
+
+Max 160 characters total
+[link1] counts as 12 characters
+So actual text must not exceed 148 characters
+
+Filters & Errors:
+
+Avoid scammy words that might get filtered by carrier filters
+Never use the apostrophe sign ( ' ) as it causes errors
+
+Output:
+
+The spun text
+Total number of possible variations printed at the end
+
+Look at this examples and take them as inspiration. Examples:
+
+{Good news|Important update|Heads up|Notice}! You {qualify|are eligible|have been approved} to {reduce|lower|cut} what you owe by up to {4{5|6|7|8|9}%|5{0|1|2|3|4|5}%}. We {can|will|are ready to} {hold|save|secure|reserve} your {spot|place|rate|position} until {26th Feb|Feb 26|02/26|26/02}. {Act now|Confirm today|Respond now|Secure it today} [link1]
+
+{Hi|Hello|Hey|Good news} {this is|its} Jim from {Relief Center|RC Support|Relief Team|RC Center}. You are {approved|cleared|qualified|eligible} for {a|the} {30K|3{0|1|2}K|$3{0|1|2}K} {Relief Program|Assistance Plan|Support Program|Aid Plan}. {Opportunity|Window|Access} {ends|closes|expires} on {26th Feb|Feb 26|02/26|26/02}. {Act now|Reply today|Confirm now|Check details} [link1]
+
+{Important|Time sensitive|Priority} {update|notice|message} {regarding|about|on} {your|the} debt {status|standing|review}. {Check|Review|See|View} {it|this} {before|by} {6PM|6 PM|18:00|6:00PM} on {25th Feb|Feb 25|02/25|25/02}. {Act now|Respond today|Take action|Dont wait} [link1]
